@@ -7,7 +7,7 @@ by Manti Lu, Yang Liu, Yunzhu Chen and Feng Yang.
 Our experiments were conducted using PyTorch 2.1.0, CUDA 12.1, and Python 3.8.18 on NVIDIA GeForce GTX 1080 GPUs.
 
 ## Usage
-We provide `code`, `data_split` and `models` for LA and ACDC dataset.
+We provide `code`, other modules follow [BCP](https://github.com/DeepMed-Lab-ECNU/BCP).
 
 Data could be got at [LA](https://github.com/yulequan/UA-MT/tree/master/data) and [ACDC](https://github.com/HiLab-git/SSL4MIS/tree/master/data/ACDC).
 
