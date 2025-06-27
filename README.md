@@ -9,7 +9,7 @@ Our experiments were conducted using PyTorch 2.1.0, CUDA 12.1, and Python 3.8.18
 ## Usage
 We provide `code`, other modules follow [BCP](https://github.com/DeepMed-Lab-ECNU/BCP).
 
-Data could be got at [LA](https://github.com/yulequan/UA-MT/tree/master/data) and [ACDC](https://github.com/HiLab-git/SSL4MIS/tree/master/data/ACDC).
+Data could be got at [LA](https://github.com/yulequan/UA-MT/tree/master/data) , [ACDC](https://github.com/HiLab-git/SSL4MIS/tree/master/data/ACDC) and preprocessed [Pancreas-CT](https://pan.baidu.com/s/10Hl8if3jeCG9V8IqX5kMOw?pwd=seui)
 
 To train a model：
 ```
